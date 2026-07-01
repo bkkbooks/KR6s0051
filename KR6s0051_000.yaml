@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0051/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 惠遠外傳
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2859.xml
+    old_id: T85n2859
+hash: sha256:339575f79cd60750ff232ab07ac331eca914513f3cfe7bfcfae4e87c18a658ac
